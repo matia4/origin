@@ -1,2 +1,2 @@
 int bainfffffffffffffffff
-main int
+main inta
